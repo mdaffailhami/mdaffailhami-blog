@@ -4,6 +4,7 @@
     "indexes": "firestore.indexes.json"
   },
   "hosting": {
+    "target": "blog-mdaffailhami",
     "public": "public",
     "ignore": [
       "firebase.json",
